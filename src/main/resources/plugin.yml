@@ -1,0 +1,6 @@
+name: Skit
+version: 1.0
+author: Globack25
+main: fr.globack.skit.Skit
+commands: 
+  skit:

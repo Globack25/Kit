@@ -1,0 +1,42 @@
+inventory-size: 9
+inventory:
+  1:
+    name: 'Skit'
+    item: STAINED_GLASS_PANE
+    slot: 1
+    data: 7
+  2:
+    kit: 'Lol'
+    slot: 2
+  3:
+    name: 'Skit'
+    item: STAINED_GLASS_PANE
+    slot: 3
+    data: 7
+kit:
+  skyfly:
+    # kit name
+    name: 'Lol'
+    # item representative
+    item: FEATHER
+    # item data
+    data: 0
+    # kit particularité
+    free: false
+    grade: true
+    boutique: false
+    # price in euro
+    price: 10
+    # grade
+    grade-avantage: 'lol (Expert)'
+    # in hour
+    delay: 24
+    # lien kit boutique
+    boutique-link: 'lol.tebex.io'
+    # items in kit
+    items:
+      1:
+        name: 'Stone'
+        material: 'STONE'
+        amount: 2
+        data: 0
